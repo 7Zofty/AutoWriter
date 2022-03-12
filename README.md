@@ -44,3 +44,7 @@ config.json:
 if you have any questions or bugs contact me via Discord:
 
 © [ Max ]#5500
+
+or
+
+discord.gg/deutsch just ping me and ask
